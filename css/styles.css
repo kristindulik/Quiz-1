@@ -6,4 +6,7 @@ body { background-color: red
 
 img {width: 180px
 
-	}/* Your Styling */
+	}
+
+h1	{display: inline;}
+/* Your Styling */
